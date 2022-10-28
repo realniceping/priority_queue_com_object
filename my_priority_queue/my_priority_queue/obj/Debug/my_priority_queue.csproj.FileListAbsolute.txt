@@ -1,0 +1,8 @@
+D:\cplusplus\my_priority_queue\my_priority_queue\bin\Debug\my_priority_queue.dll.config
+D:\cplusplus\my_priority_queue\my_priority_queue\bin\Debug\my_priority_queue.dll
+D:\cplusplus\my_priority_queue\my_priority_queue\bin\Debug\my_priority_queue.pdb
+D:\cplusplus\my_priority_queue\my_priority_queue\bin\Debug\my_priority_queue.tlb
+D:\cplusplus\my_priority_queue\my_priority_queue\obj\Debug\my_priority_queue.csproj.AssemblyReference.cache
+D:\cplusplus\my_priority_queue\my_priority_queue\obj\Debug\my_priority_queue.csproj.CoreCompileInputs.cache
+D:\cplusplus\my_priority_queue\my_priority_queue\obj\Debug\my_priority_queue.dll
+D:\cplusplus\my_priority_queue\my_priority_queue\obj\Debug\my_priority_queue.pdb

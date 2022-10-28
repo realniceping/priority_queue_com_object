@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04f0686b-1a4c-41ae-9550-16501aa5876e": {
+      "ProjectGuid": "04f0686b-1a4c-41ae-9550-16501aa5876e",
+      "DisplayName": "my_priority_queue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

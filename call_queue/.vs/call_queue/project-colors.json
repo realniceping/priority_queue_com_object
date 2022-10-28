@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13dc5128-f53c-4225-9c15-409f0121eaf6": {
+      "ProjectGuid": "13dc5128-f53c-4225-9c15-409f0121eaf6",
+      "DisplayName": "call_queue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

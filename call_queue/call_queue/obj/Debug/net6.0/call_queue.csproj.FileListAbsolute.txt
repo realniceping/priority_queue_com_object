@@ -1,0 +1,15 @@
+D:\cplusplus\call_queue\call_queue\bin\Debug\net6.0\call_queue.exe
+D:\cplusplus\call_queue\call_queue\bin\Debug\net6.0\call_queue.deps.json
+D:\cplusplus\call_queue\call_queue\bin\Debug\net6.0\call_queue.runtimeconfig.json
+D:\cplusplus\call_queue\call_queue\bin\Debug\net6.0\call_queue.dll
+D:\cplusplus\call_queue\call_queue\bin\Debug\net6.0\ref\call_queue.dll
+D:\cplusplus\call_queue\call_queue\bin\Debug\net6.0\call_queue.pdb
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.csproj.AssemblyReference.cache
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.AssemblyInfoInputs.cache
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.AssemblyInfo.cs
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.csproj.CoreCompileInputs.cache
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.dll
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\ref\call_queue.dll
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.pdb
+D:\cplusplus\call_queue\call_queue\obj\Debug\net6.0\call_queue.genruntimeconfig.cache
